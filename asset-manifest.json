@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/serviceLearning/static/css/main.214b035c.css",
+    "main.js": "/serviceLearning/static/js/main.1ff4ee53.js",
+    "static/js/787.fb771931.chunk.js": "/serviceLearning/static/js/787.fb771931.chunk.js",
+    "static/media/20220709-Barnimages-002.jpg": "/serviceLearning/static/media/20220709-Barnimages-002.ec7dae6e58af324c8346.jpg",
+    "static/media/color-sharp.png": "/serviceLearning/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/serviceLearning/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/poster.jpg": "/serviceLearning/static/media/poster.5739eab5dcde61ec3296.jpg",
+    "static/media/quiz.png": "/serviceLearning/static/media/quiz.10b3a613f2e7172ab73f.png",
+    "static/media/trashPickingGame.png": "/serviceLearning/static/media/trashPickingGame.bdacde2277cf5ce0d27c.png",
+    "static/media/CentraNo2-Bold.ttf": "/serviceLearning/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/serviceLearning/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/serviceLearning/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/serviceLearning/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/serviceLearning/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/serviceLearning/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/serviceLearning/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/serviceLearning/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/turtle-svgrepo-com.svg": "/serviceLearning/static/media/turtle-svgrepo-com.ea7c76cef238d48a1181e47d02e9ce4e.svg",
+    "static/media/calendar-svgrepo-com.svg": "/serviceLearning/static/media/calendar-svgrepo-com.8773835d1b8ac70eb34d3a676d475b10.svg",
+    "static/media/nav-icon3.svg": "/serviceLearning/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/education-laboratory-school-svgrepo-com.svg": "/serviceLearning/static/media/education-laboratory-school-svgrepo-com.35c224a7e50d826c97d73f094f6fc752.svg",
+    "static/media/logo.svg": "/serviceLearning/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/book-education-study-svgrepo-com.svg": "/serviceLearning/static/media/book-education-study-svgrepo-com.8c20f20babc26cfb2195b3c112d322fb.svg",
+    "index.html": "/serviceLearning/index.html",
+    "static/media/nav-icon1.svg": "/serviceLearning/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/serviceLearning/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/serviceLearning/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/serviceLearning/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.214b035c.css.map": "/serviceLearning/static/css/main.214b035c.css.map",
+    "main.1ff4ee53.js.map": "/serviceLearning/static/js/main.1ff4ee53.js.map",
+    "787.fb771931.chunk.js.map": "/serviceLearning/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214b035c.css",
+    "static/js/main.1ff4ee53.js"
+  ]
+}
