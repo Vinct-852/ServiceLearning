@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/serviceLearning/static/css/main.214b035c.css",
-    "main.js": "/serviceLearning/static/js/main.973919bd.js",
+    "main.js": "/serviceLearning/static/js/main.58f296f7.js",
     "static/js/787.fb771931.chunk.js": "/serviceLearning/static/js/787.fb771931.chunk.js",
     "static/media/20220709-Barnimages-002.jpg": "/serviceLearning/static/media/20220709-Barnimages-002.ec7dae6e58af324c8346.jpg",
     "static/media/color-sharp.png": "/serviceLearning/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/serviceLearning/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/poster.jpg": "/serviceLearning/static/media/poster.5739eab5dcde61ec3296.jpg",
-    "static/media/quiz.png": "/serviceLearning/static/media/quiz.10b3a613f2e7172ab73f.png",
-    "static/media/trashPickingGame.png": "/serviceLearning/static/media/trashPickingGame.bdacde2277cf5ce0d27c.png",
+    "static/media/EnvQuiz.jpg": "/serviceLearning/static/media/EnvQuiz.be4d7e5397a6a2d7aafd.jpg",
+    "static/media/Trashpicking.jpg": "/serviceLearning/static/media/Trashpicking.17115e26d4470f917a6f.jpg",
     "static/media/CentraNo2-Bold.ttf": "/serviceLearning/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/serviceLearning/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/serviceLearning/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -29,11 +29,11 @@
     "static/media/arrow1.svg": "/serviceLearning/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/serviceLearning/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.214b035c.css.map": "/serviceLearning/static/css/main.214b035c.css.map",
-    "main.973919bd.js.map": "/serviceLearning/static/js/main.973919bd.js.map",
+    "main.58f296f7.js.map": "/serviceLearning/static/js/main.58f296f7.js.map",
     "787.fb771931.chunk.js.map": "/serviceLearning/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.214b035c.css",
-    "static/js/main.973919bd.js"
+    "static/js/main.58f296f7.js"
   ]
 }
