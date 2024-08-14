@@ -35,7 +35,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>About Us</h2>
-                        <p>We are a school-based organisation concerned with environmental conservation<br/>and environmentally related livelihood and economic affairs. 
+                        <p>We are a team concerned with environmental conservation<br/>and environmentally related livelihood and economic affairs. 
                         <br/>We are supported by The Hong Kong Polytechnic University (PolyU) 
                         <br/>and Ocean Park Conservation Foundation.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
@@ -51,10 +51,7 @@ export const Skills = () => {
                                 <img src={meter3} alt="Image" />
                                 <h5>Organizes Events</h5>
                             </div>
-                            {/* <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
-                            </div> */}
+                            
                         </Carousel>
                     </div>
                 </div>

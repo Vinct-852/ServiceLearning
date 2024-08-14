@@ -61,11 +61,17 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to our website</span>
                 <h1>{`Hi! We are`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "a", "b", "c" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>The environment around us is not only our home but everything that keeps us alive.
-                    From the food we eat, the water we drink, the air we breathe, our shelter, and more, it helps us to survive.
-                    </p>
-                    <button onClick={handleClick}> Let’s Protect Our Environment Together < ArrowRightCircle size={25} /></button>
-                  {/* <button onClick={() => console.log('connect')}>Let’s Connect<ArrowRightCircle size={25} /></button> */}
+                  <div style={{ 
+                      backgroundColor: 'rgba(0, 0, 0, 0.05)', 
+                      color: 'white', 
+                      padding: '10px',
+                      borderRadius: '10px'  // This will make the corners round
+                  }}>
+                      <p>The environment around us is not only our home but everything that keeps us alive.
+                      From the food we eat, the water we drink, the air we breathe, our shelter, and more, it helps us to survive.
+                      </p>
+                  </div>
+                  <button onClick={handleClick}> Let’s Protect Our Environment Together < ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
